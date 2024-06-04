@@ -67,6 +67,7 @@ body {
 
 .banner>.info>.location {
   color: var(--green-color);
+  font-weight: 500;
 }
 
 .banner>.about {
@@ -90,6 +91,7 @@ body {
   text-align: center;
   text-decoration: none;
   color: var(--white-color);
+  font-weight: 700;
 }
 
 .socials>.btn:hover {
